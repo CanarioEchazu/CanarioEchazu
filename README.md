@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Darío "Canario" Echazu</h1>
 <h3 align="center">Business Administration - Systems Analyst - Full Stack Developer</h3>
 
-#  [This is me](https://canarioechazu.github.io/DarioPortfolio/) 
+#  [This is me](https://darioechazu.com/) 
 
 - 🔭 I’m currently working on for example this api. [Rick and Morthy](https://canarioechazu.github.io/Rick-And-Morthy/)
 
