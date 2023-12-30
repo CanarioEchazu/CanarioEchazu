@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Darío "Canario" Echazu</h1>
+<h1 align="center">Hi 👋, I'm D E</h1>
 <h3 align="center">Business Administration - Systems Analyst - Full Stack Developer</h3>
 
 #  [This is me](https://darioechazu.com/) 
